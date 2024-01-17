@@ -3,7 +3,7 @@
 After you have successfully [created your account](https://portal.commoditymap.org/signup) and signed into the [CommodityMap platform](https://portal.commoditymap.org/my-analyses), you will presented with two options:   
 
 1. **Explore a free demo:** here you can view the results of an example analysis.
-2. **Start a new Analysis:** begin the process of creating an analysis
+2. **Start a new Analysis:** begin the process of creating an analysis.
 
 
 > NOTE:
@@ -14,18 +14,21 @@ After you have successfully [created your account](https://portal.commoditymap.o
 > - Supplier names for each commodity & region pair (optional).
 > 2. There is limit of 20 analyses. 
 
-Adding commodities 
-commodity
+#### Adding commodities 
 
-From the My Analyses page, Click Start new analysis 
 
-On the start a new analysis page, click Go to input form 
+1. From the **My Analyses page**, Click **+ Start new analysis.**
 
-On the New analysis page, enter the name of your analysis and make changes to the volume unit if needed.   
+2. On the **Start a new analysis** page, click **Go to input form ->**.
 
-Click  + Add commodity 
+3. On the **New analysis** page, type the name of your analysis in the **Name of Analysis** box. 
+4. (Optional) Under *Volume unit**, select a measurement.  
 
-In the Select a commodity dialog, select your commodity, and click Add commodity. A new row with a gold top border appears with the name of commodity. 
+5. Under **Your commodities**, click  **+ Add commodity**. 
+
+LEFTOFF 
+
+6. In the **Select a commodity dialog**, select your commodity, and click Add commodity. A new row with a gold top border appears with the name of commodity. 
 
 Adding supply data for the commodity or commodities 
 
