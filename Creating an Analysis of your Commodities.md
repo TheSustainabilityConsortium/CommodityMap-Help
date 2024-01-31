@@ -7,7 +7,6 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 
 > [!NOTE]
-
 > 1. Before continuing, please have available the following information:
 >- The commodity or list of commodities of interest.
 > - Where the commodities are grown (i.e. the country your commodity is sourced).
