@@ -6,7 +6,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
 2. **Start a new Analysis:** begin the process of creating an analysis.
 
 
-> NOTE:
+> [!NOTE]
 
 > 1. Before continuing, please have available the following information:
 >- The commodity or list of commodities of interest.
