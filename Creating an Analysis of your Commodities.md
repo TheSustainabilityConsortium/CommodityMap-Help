@@ -11,6 +11,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
 >- The commodity or list of commodities of interest.
 > - Where the commodities are grown (i.e. the country your commodity is sourced).
 > - Supplier names for each commodity & region pair (optional).
+
 > [!NOTE]
 > 2. There is limit of 20 analyses. 
 
