@@ -38,22 +38,20 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 3. In response to the question **Do you know where this supply was grown?**: 
 
-    * **Yes:** you will be prompted to enter the details of where the commodity was grown. Continue to the next step. 
+    * **Yes:** select the **Country** where the commodity was grown, the **Sub-country** (if known), and the **Sub-sub-country** (if known).
 
 
     * **No:** Purchased supply without information about where it was grown will have growing regions modeled by TSC. The result will be the most likely countries from which you are sourcing your commodity. 
 
 
-4. If you selected **Yes**, then select the **Country** where the commodity was grown, the **Sub-country** (if known), and the **Sub-sub-country** (if known). Otherwise continue.  
+4. Optional:  Enter a supplier name and amount spent. 
 
-5. Optional:  Enter a supplier name and amount spent. 
+5. If you have taken actions to address sustainability issues related to the supply, click **+Add action** and select any actions in the supplied list. 
 
-6. If you have taken actions to address sustainability issues related to the supply, click **+Add action** and select any actions in the supplied list. 
+6. Click **Save Supply.** 
 
-7. Click **Save Supply.** 
+7. Once you have completed adding all your commodities and corresponding supplies, create the analysis by clicking **Analyze this data ->.**
 
-8. Once you have completed adding all your commodities and corresponding supplies, create the analysis by clicking **Analyze this data ->.**
-
-9. You will receive a message dialog: **Your results are ready!**. Click **Continue to results** to view your results. 
+8. You will receive a message dialog: **Your results are ready!**. Click **Continue to results** to view your results. 
 
 NEXT: [Viewing your CommodityMap analysis](Viewing your CommodityMap analysis.md)
