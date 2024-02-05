@@ -6,13 +6,13 @@ After you have successfully [created your account](https://portal.commoditymap.o
 2. **Start a new Analysis:** begin the process of creating an analysis.
 
 
-> [!TIP]
+> TIP: 
 > Before continuing, please have available the following information:
 >- The commodity or list of commodities of interest.
 > - Where the commodities are grown (i.e. the country your commodity is sourced).
 > - Supplier names for each commodity & region pair (optional).
 
-> [!NOTE]
+> NOTE: 
 > There is limit of 20 analyses. 
 
 #### Adding commodities 
