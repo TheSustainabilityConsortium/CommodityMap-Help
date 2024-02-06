@@ -1,15 +1,15 @@
 ### Viewing an Analysis of your Commodities
 After you have [created your analysis](Creating an Analysis of your Commodities.md), you will be presented with your results. 
 
-At the top of the Analysis page is the tab bar: 
+At the top of the Analysis page the tab bar allows you to navigate to:  
 
 - **All supplies:** view and filter all your supplies and their assoicated issue scores.
 - **Priority supplies:** view your top 5 supplies along with map indicating the corresponding grow locations. 
-- **Recommendations:** this page allows you to view different recommendations by way of another tab bar for actions, data quality, and resources. 
+- **Recommendations:** this page allows you to view different recommendations: actions you can take, methods to improve your data quality, and resources. 
 
 #### All supplies
 1. #### Filter and legend section (middle section):
-    Filter on certain commodities, countries, or only show those items that are stared. You can also download csv file of the results for further analysis in Excel. 
+    Filter results on certain commodities, countries, or only show those items that are stared. You can also download csv file of the results for further analysis in Excel. 
 2. #### Issue score results (bottom section):
 
     View each of the commodities and the unique supply information (commodity-location pairs) issue scores and total priority. 
@@ -28,5 +28,49 @@ At the top of the Analysis page is the tab bar:
 
 
 #### **Recommendations:** 
+At the top of the Recommendation page the tab bar allows you to navigate to: 
+- Actions: list of recommended actions based on your issue scores. 
+- Data quality: methods of improving your data quality score. Thsi score is based upon the information provided when entering supplier information. 
+- Resources: 
+
+#### Actions
+Actions you take help to increase visibility and reduce social and environment issues in the regions your commodities are sourced. 
+
+1. **Filter and legend section (top):**
+
+    Filter results on certain commodities, countries, themes, or only show those items that are stared. You can also download csv file of the results for further analysis in Excel. 
+
+    > NOTE: 
+    > Actions are only shown where your issues scores were determined to be higher or medium priority. 
 
 
+2. **Recommended Actions (bottom):**
+
+    Action recommendations are organized in tables, each focusing on a particular commodity. Here's a breakdown of the columns in the individual commodity tables:
+
+    - Your grow locations(s): the source region where the commodity was identified as being grown and where a partiicular issue is common to all these regions. 
+    - Theme: categories of sustainability issues (eg. biodiversity, deforestation, etc.).
+    - Action Recommendation: click **Read more and see your actions** to read suggestions to help address environmental and social issues. 
+
+
+
+#### Data quality
+
+    A list of supplies where the data entered (i.e. details provided) for a given supply could be improved. 
+
+    Click **Update commodity data ->** to edit , copy or delete individual supply information related to a given commodity. 
+
+
+
+#### Resources 
+
+    Resources are tools, standards, certifications, and more related to your commodity supplies. 
+
+    1. **Filter (top):**
+
+     Filter results on certain commodities, countries, themes, or resource types.You can also download csv file of the results for further analysis in Excel. 
+
+
+    2. **Resources (bottom):**
+
+    Resources are listed as rows containing details about the reource, links, as well as tags. Tags are based upon your analysis supplies (commondity, location, and themes). 
