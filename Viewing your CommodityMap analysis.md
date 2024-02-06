@@ -86,4 +86,4 @@ In the upper left is the **Analysis Settings** where you can change analysis tit
 
 &nbsp;&nbsp;&nbsp;&nbsp;Resources are listed as rows containing details about the resource, links, as well as tags. Tags are based upon your analysis supplies (commondity, location, and themes). 
 
-NEXT: [Compare CommodityMap Analyses]Compare CommodityMap Analyses.md)
+NEXT: [Comparing CommodityMap Analyses](Comparing CommodityMap Analyses.md)
