@@ -37,7 +37,7 @@ At the top of the Recommendation page the tab bar allows you to navigate to:
 - **Data quality:** methods of improving your data quality score. Thsi score is based upon the information provided when entering supplier information. 
 - **Resources:** tools, standards, certifications, and more related to your commodity supplies. 
 
-#### <p style="color : gold">Actions</code>
+#### <p style="color : gold">Actions</p>
 Actions you take help to increase visibility and reduce social and environment issues in the regions your commodities are sourced. 
 
 #### **Filter and legend section (top):**
