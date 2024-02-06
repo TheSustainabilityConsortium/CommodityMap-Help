@@ -4,13 +4,13 @@ After you have [created your analysis](Creating an Analysis of your Commodities.
 At the top of the Analysis page the tab bar allows you to navigate to:  
 
 - **All supplies:** view and filter all your supplies and their assoicated issue scores.
-- **Priority supplies:** view your top 5 supplies along with map indicating the corresponding grow locations. 
+- **Priority supplies:** view your top 5 supplies along with a map indicating the corresponding grow locations. 
 - **Recommendations:** this page allows you to view different recommendations: actions you can take, methods to improve your data quality, and resources. 
 
 ### All supplies
 #### Filter and legend section (middle section):
 
-&nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, or only show those items that are stared. You can also download csv file of the results for further analysis in Excel. 
+&nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, or only show those items that are stared. You can also download a csv file of the results for further analysis in Excel. 
 
 #### Issue score results (bottom section):
 
@@ -19,10 +19,10 @@ At the top of the Analysis page the tab bar allows you to navigate to:
 - **Commodity:** this column lists all of your commodities. You may expand/collapse your supplies within the given commodity using the down arrow icon.
 - **Location:** where the supply was grown.
 - **Vol. MT**/% of vol.: the top number represents the volume in metric tonnes, bottom number is the percent of the volume for the given commodity. 
-- **Total**: the total priority level (i.e. low LO, medium MD, high HI) calculated by taking the average of each of the individual issue scores (e.g. Deforestation, Biodiversity, Water, etc. )
+- **Total**: the total priority level (i.e. low LO, medium MD, high HI) calculated by taking the average of each of the individual issue scores (e.g. Deforestation, Biodiversity, Water, etc.)
 - **Individual issue scores:** scores for the 6 environmental and social issues. 
 - **Your data:** bars represent the amount of data entered during when adding a supply for a commodity. A bar is given when one of these 4 items are entered: known grown location, supplier name, amount spent, and purchased volume. 
-- **Your actions:** when entering a supply for a commodity, you can enter actions taken. For each action taken, a bar will displayed. 
+- **Your actions:** when entering a supply for a commodity, you can enter actions taken. For each action taken, a bar will display. 
 
 ### **Priority supplies** 
 
@@ -45,10 +45,9 @@ At the top of the Analysis page the tab bar allows you to navigate to:
 
 #### *Filter and legend section (top):*
 
-&nbsp;&nbsp;&nbsp;&nbsp; Filter results on certain commodities, countries, themes, or only show those items that are stared. You can also download csv file of the results for further analysis in Excel. 
+&nbsp;&nbsp;&nbsp;&nbsp; Filter results on certain commodities, countries, themes, or only show those items that are stared. You can also download a csv file of the results for further analysis in Excel. 
 
-    > NOTE: 
-    > Actions are only shown where your issues scores were determined to be higher or medium priority. 
+>NOTE: Actions are only shown where your issues scores were determined to be higher or medium priority. 
 
 
 *Recommended Actions (bottom):*
@@ -65,7 +64,7 @@ At the top of the Analysis page the tab bar allows you to navigate to:
 
 &nbsp;&nbsp;&nbsp;&nbsp;A list of supplies where the data entered (i.e. details provided) for a given supply could be improved. 
 
-- Click **Update commodity data ->** to edit , copy or delete individual supply information related to a given commodity. 
+- Click **Update commodity data ->** to edit, copy or delete individual supply information related to a given commodity. 
 
 
 
@@ -75,7 +74,7 @@ At the top of the Analysis page the tab bar allows you to navigate to:
 
 *Filter (top):*
 
-&nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, themes, or resource types.You can also download csv file of the results for further analysis in Excel. 
+&nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, themes, or resource types. You can also download csv file of the results for further analysis in Excel. 
 
 
 *Resources (bottom):*

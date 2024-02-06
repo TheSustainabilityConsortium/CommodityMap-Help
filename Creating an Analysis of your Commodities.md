@@ -33,7 +33,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 **Adding supply data for the commodity or commodities** 
 
-1. Within the new commodity row just added, click **+ Add supply of this commodity** 
+1. Within the new commodity row just added, click **+ Add supply of this commodity**. 
 2. In the New Supply dialog, select the **purchasing country** and **quantity purchased** in metric tons. 
 
 3. In response to the question **Do you know where this supply was grown?**: 
@@ -52,6 +52,6 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 7. Once you have completed adding all your commodities and corresponding supplies, create the analysis by clicking **Analyze this data ->.**
 
-8. You will receive a message dialog: **Your results are ready!**. Click **Continue to results** to view your results. 
+8. You will receive a message **Your results are ready!**. Click **Continue to results** to view your results. 
 
 NEXT: [Viewing your CommodityMap analysis](Viewing your CommodityMap analysis.md)
