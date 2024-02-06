@@ -28,12 +28,12 @@ Rather than providing a traditional geographic map, _think of CommodityMap as a 
 
 A common workflow to produce an analysis is as follows:
 
-1. **[Create an Analysis:](Creating an Analysis of Your Commodities.md)** 
+1. **[Create an Analysis:](Creating_an_ Analysis_of_Your_Commodities.md)** 
     
     Here you will enter your commodities and supply (purchasing location) information. 
     
      >NOTE: You just need the purchasing location and CommodityMap will take care of the rest!
-     
+
 2. **[View your results:](Viewing Your CommodityMap Analysis.md)**
     - View all supplies and sort by priority scores
     - View the top 5 supplies with the highest priorities
