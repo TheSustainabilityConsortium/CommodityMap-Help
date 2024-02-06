@@ -43,7 +43,7 @@ A common workflow to produce an analysis is as follows:
     - View recommendations: actions you can take, suggested improvements to the  data you supplied, and resources.
 3. [Compare CommodityMap Analysis](Comparing_CommodityMap_Analyses.md)
 
-After you have created several analysis, you can then compare the analyzed commodities. 
+    After you have created several analysis, you can then compare the analyzed commodities. 
   
 
 
