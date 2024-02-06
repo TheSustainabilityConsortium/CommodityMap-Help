@@ -1,11 +1,16 @@
 ### Viewing an Analysis of your Commodities
 After you have [created your analysis](Creating an Analysis of your Commodities.md), you will be presented with your results. 
 
-At the top of the Analysis page the tab bar allows you to navigate to:  
+>NOTE: Notice within the upper left menus, the My analysis tab is selected. More information about seeing and working with all your analyses can be found on the [My Analyses](My Analyses.md) page. 
+
+At the top of the Analysis page, under the title of your analysis, a tab bar allows you to navigate to:  
 
 - **All supplies:** view and filter all your supplies and their assoicated issue scores.
 - **Priority supplies:** view your top 5 supplies along with a map indicating the corresponding grow locations. 
 - **Recommendations:** this page allows you to view different recommendations: actions you can take, methods to improve your data quality, and resources. 
+
+In the upper left is the **Analysis Settings** where you can change analysis title, update your data, and delete the analysis. 
+
 
 ### All supplies
 #### Filter and legend section (middle section):
@@ -80,3 +85,5 @@ At the top of the Analysis page the tab bar allows you to navigate to:
 *Resources (bottom):*
 
 &nbsp;&nbsp;&nbsp;&nbsp;Resources are listed as rows containing details about the resource, links, as well as tags. Tags are based upon your analysis supplies (commondity, location, and themes). 
+
+NEXT: [Compare CommodityMap Analyses]Compare CommodityMap Analyses.md)
