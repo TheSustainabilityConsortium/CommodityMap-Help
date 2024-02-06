@@ -28,7 +28,7 @@ Rather than providing a traditional geographic map, _think of CommodityMap as a 
 
 A common workflow to produce an analysis is as follows:
 
-1. [Create an Analysis](Creating_an_Analysis_of_Your_Commodities.md)
+1. [Create an Analysis](Creating an Analysis of Your Commodities.md)
 
     
     Here you will enter your commodities and supply (purchasing location) information. 
