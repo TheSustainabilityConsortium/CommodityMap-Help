@@ -35,13 +35,13 @@ A common workflow to produce an analysis is as follows:
     
      >NOTE: You just need the purchasing location and CommodityMap will take care of the rest!
 
-2. [View your results](Viewing_Your_CommodityMap_Analysis.md)
+2. [View your results](ViewingYourCommodityMapAnalysis.md)
 
 
     - View all supplies and sort by priority scores
     - View the top 5 supplies with the highest priorities
     - View recommendations: actions you can take, suggested improvements to the  data you supplied, and resources.
-3. [Compare CommodityMap Analysis](Comparing_CommodityMap_Analyses.md)
+3. [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
 
     After you have created several analysis, you can then compare the analyzed commodities. 
   
