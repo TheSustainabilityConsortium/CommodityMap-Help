@@ -1,3 +1,11 @@
+---
+layout: default
+title: Viewing an Anlysis of Your Commodities
+nav_order: 4
+description: "Viewing an Analysis of Your Commodities"
+---
+
+
 ### Viewing an Analysis of your Commodities
 After you have [created your analysis](Creating an Analysis of your Commodities.md), you will be presented with your results. 
 

@@ -1,3 +1,12 @@
+---
+layout: default
+title: Comparing Your CommodityMap Analyses
+nav_order: 5
+description: "Comparing Your CommodityMap Analyses"
+---
+
+
+
 ### Compare CommodityMap Analyses
 Compare Analysis allows you to compare the results of two or more analyses by a specific commodity and optionally a supply for that commodity. 
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Creating an Analysis of Your Commodities
+nav_order: 3
+description: "Creating an Analysis of Your Commodities"
+---
+
 ### Creating an Analysis of your Commodities
 
 After you have successfully [created your account](https://portal.commoditymap.org/signup) and signed into the [CommodityMap platform](https://portal.commoditymap.org/my-analyses), you will presented with two options:   
