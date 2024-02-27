@@ -9,12 +9,12 @@ description: "CommodityMap Help"
 ## CommodityMap Help
 ### Documentation
 #### Getting Started
-1. [CommodityMap Overview](Overview.md)
-2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
-3. [View your results](ViewingYourCommodityMapAnalysis.md)
+#### 1. [CommodityMap Overview](Overview.md)
+#### 2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
+#### 3. [View your results](ViewingYourCommodityMapAnalysis.md)
 
 
 
 #### Advanced Features
-5. [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
+#### 4. [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
 ---
