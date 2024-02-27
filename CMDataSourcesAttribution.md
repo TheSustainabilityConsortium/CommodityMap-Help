@@ -10,20 +10,44 @@ CommodityMAp uses publicly available datasets. Discovery the source and attribut
 
 #### Spatial Agricultural Production Models
 
-The models help CommodityMap identify where agricultural crops are produced. 
+These models are used by CommodityMap to identify where agricultural crops are produced. 
 
-| category  | descripton   | dataset name    | attribution | 
-|:----------|:-------------|:----------------|:------------| 
-|Argricultural Production Data (USA) | USDA-NASS Cropland Data Layer (CDL) is an annual raster, geo-referenced, crop-specific land cover data layer. |[USDA Cropland Data Layer                   ](https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php) | USDA National Agricultural Statistics Service Cropland Data Layer. {YEAR}. Published crop-specific data layer [Online]. Available at https://nassgeodata.gmu.edu/CropScape/ (accessed 2022; verified 2022). USDA-NASS, Washington, DC.  | 
+| Category  | Descripton   | Dataset name    | Attribution | License   |
+|:----------|:-------------|:----------------|:------------|:----------|
+|Argricultural Production Data (USA) | USDA-NASS Cropland Data Layer (CDL) is an annual raster, geo-referenced, crop-specific land cover data layer. Year: 2022 |[USDA Cropland Data Layer](https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php) | USDA National Agricultural Statistics Service Cropland Data Layer. 2022. Published crop-specific data layer [Online]. Available at https://nassgeodata.gmu.edu/CropScape/ (accessed 2022; verified 2022). USDA-NASS, Washington, DC.  | Public Domain | 
+| Argricultural Production Data (World) |  A spatial production allocation model designed to provide detailed information about the geographic distribution of major crops. Year: 2010  | [Spatial Production Allocation Model\(MAPSPAM\)](https://mapspam.info/) |International Food Policy Research Institute, Global Spatially-Disaggregated Crop Production Statistics Data for 2010 Version 2.0, 2019, Harvard Dataverse, V4, Retrieved from: https://doi.org/10.7910/DVN/PRFF8V     |[Creative Commons Attribution-NonCommercial 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/) | 
+
+
 
 
 
 #### Environmental and Social Issue Models
+These models are used by CommodityMap to identify where environmental and social issues are occuring. 
 
+##### Environmental Issues
+| Category  | Descripton   | Dataset name    | Attribution | License   | 
+|:----------|:-------------|:----------------|:------------|:----------|
+| Biodiversity     |   Biodiversity Hotspots--regions where at least 1,500 vascular plants as endemics and  must have 30% or less of its original natural vegetation.     Year:  2016    |[Conservation International - Biodiversity Hotspots](https://www.conservation.org/priorities/biodiversity-hotspots) |Hoffman, Michael; Koenig, Kellee; Bunting, Gill; Costanza, Jennifer; Williams, Kristen J., Biodiversity Hotspots, 2016, Conservation International/Zendo, version 2016.1, Retrieved from https://zenodo.org/record/3261807#.YvqLKS7MJtT| [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)|
+|Biodiversity      | This dataset represent a set of priority terrestrial areas identified for conservation based on their rich biodiversity and ecological significance. Year: 2004    |[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/) ​| Title: World Wildlife Fund - Global 200 (terrestrial) Ecoregions Credits: World Wildlife Fund - US Publication Date: 2004 Publisher: World Wildlife Fund Other Citation Info: Olson, D.M., E. Dinerstein, E.D. Wikramanayake, N.D. Burgess, G.V.N. Powell, E.C. Underwood, J.A. D'Amico, H.E. Strand, J.C. Morrison, C.J. Loucks, T.F. Allnutt, J.F. Lamoreux, T.H. Ricketts, I. Itoua, W.W. Wettengel, Y. Kura, P. Hedao, and K. Kassem. 2001. Terrestrial ecoregions of the world: A new map of life on Earth. BioScience 51(11):933-938.| [Use Contraints](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)Any modification of the original map by users to ecoregion boundaries, units, names, or realm and biome classes must be noted. |   
+|Water              |     The Aqueduct™ water risk framework combines 13 water risk indicators—including quantity, quality, and reputational risks—into a composite overall water risk score Year: 2023           | [Aqueduct 4.0 Current and Future Global Maps Data](https://www.wri.org/data/aqueduct-global-maps-40-data)                | Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: doi.org/10.46830/ writn.23.00061.|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)   |  
+|Deforestation       | This dataset shows shows the dominant driver of tree cover loss from 2001-2022 using these two categories: commodity-driven deforestation: Large-scale deforestation linked primarily to commercial agricultural expansion.
+Shifting agriculture: Temporary loss or permanent deforestation due to small- and medium-scale agriculture.   Year:         |                 |             | | 
 
+##### Social Issues
 
+| Category  | Descripton   | Dataset name    | Attribution | 
+|:----------|:-------------|:----------------|:------------| 
+|Social: Forced and Child labor      |          Year:     |                 |             |  
 
 #### Trade and Production Statistics
+| Category  | Descripton   | Dataset name    | Attribution | 
+|:----------|:-------------|:----------------|:------------| 
+|            |           Year:      |                 |             | 
+|            |         Year:        |                  |            |  
 
 
 #### Administrative Boundaries
+
+| Category  | Descripton   | Dataset name    | Attribution | 
+|:----------|:-------------|:----------------|:------------| 
+|           |         Year: |                 |             | 
