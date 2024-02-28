@@ -25,15 +25,21 @@ These models are used by CommodityMap to identify where agricultural crops are p
 These models are used by CommodityMap to identify where environmental and social issues are occuring. 
 
 ##### Environmental Issues
-| Category  | Descripton   | Dataset name    | Attribution | License   | 
-|:----------|:-------------|:----------------|:------------|:----------|    
-|    1        |  2           |  3                |  4            | 5         | 
+
+| Category  | Descripton   | Dataset name    | Attribution | License   |
+|:----------|:-------------|:----------------|:------------|:----------|
+| Biodiversity |Biodiversity Hotspots are regions where at least 1,500 vascular plants as endemics and  must have 30% or less of its original natural vegetation. Year:  2016 |[Conservation International - Biodiversity Hotspots](https://www.conservation.org/priorities/biodiversity-hotspots) | attrib | license | 
+
+
+| Category  | Descripton   | Dataset name    | Attribution | License   |
+|:----------|:-------------|:----------------|:------------|:----------|
+| Biodiversity |This dataset represents a set of priority terrestrial areas identified for conservation based on their rich biodiversity and ecological significance. Year: 2004|[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)| attrib | license|
 
 
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-|Water |     The Aqueduct™ water risk framework combines 13 water risk indicators—including quantity, quality, and reputational risks—into a composite overall water risk score Year: 2023           | [Aqueduct 4.0 Current and Future Global Maps Data](https://www.wri.org/data/aqueduct-global-maps-40-data)                | Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: doi.org/10.46830/ writn.23.00061.|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)   |
+|Water |The Aqueduct™ water risk framework combines 13 water risk indicators—including quantity, quality, and reputational risks—into a composite overall water risk score Year: 2023           | [Aqueduct 4.0 Current and Future Global Maps Data](https://www.wri.org/data/aqueduct-global-maps-40-data)                | Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: doi.org/10.46830/ writn.23.00061.|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)   |
 
 
 
@@ -51,10 +57,10 @@ These models are used by CommodityMap to identify where environmental and social
 
 ---
 #### Trade and Production Statistics
-| Category  | Descripton   | Dataset name    | Attribution | License | 
+| Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-|Crop and Livestock Production| Provides information on the international trade in agricultural products. Year: 2022 |[Crops and livestock products](https://www.fao.org/faostat/en/#data/QCL) | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data.zip. Data of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)   |
-|Trade Data      | The FAO Trade Matrix is a database managed by the Food and Agriculture Organization, offering comprehensive information on international trade in agricultural products, facilitating analysis of trade patterns and movements of various food and agricultural commodities globally. Year: 2022| [Detailed trade matrix](https://www.fao.org/faostat/en/#data/TM)                 | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_DetailedTradeMatrix_E_All_Data.zip. Data of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)   |
+|Crop and Livestock Production| Provides information on the international trade in agricultural products. Year: 2022 |[Crops and livestock products](https://www.fao.org/faostat/en/#data/QCL) | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data.zip. Date of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)|
+|Trade Data      | The FAO Trade Matrix is a database managed by the Food and Agriculture Organization, offering comprehensive information on international trade in agricultural products, facilitating analysis of trade patterns and movements of various food and agricultural commodities globally. Year: 2022| [Detailed trade matrix](https://www.fao.org/faostat/en/#data/TM)                 | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_DetailedTradeMatrix_E_All_Data.zip. Date of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)|
 
 ---
 #### Administrative Boundaries
