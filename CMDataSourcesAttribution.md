@@ -26,8 +26,9 @@ These models are used by CommodityMap to identify where environmental and social
 
 ##### Environmental Issues
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
-|:----------|:-------------|:----------------|:------------|:----------|
-| Biodiversity| My description |[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/) | Attrib |[Use Contraints](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)|      
+|:----------|:-------------|:----------------|:------------|:----------|    
+|    1        |  2           |  3                |  4            | 5         | 
+
 
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
@@ -52,9 +53,11 @@ These models are used by CommodityMap to identify where environmental and social
 #### Trade and Production Statistics
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-|            |           Year:      |                 |             | 
-|            |         Year:        |                  |            |  
+| Trade Data| Provides information on the international trade in agricultural products        Year: 2022     |[Crops and livestock products] (https://www.fao.org/faostat/en/#data/QCL)     |             |   |
+|   Crop and Livestock Production         |         Year:        |                  |            |  
 
+
+“FAO.[NAME OF DATABASE]. License: CC BY-NC-SA 3.0 IGO. Extracted from: [insert URL of database]. Data of Access: [insert date that the dataset was accessed in the following format DD-MM-YEAR].”
 
 #### Administrative Boundaries
 
