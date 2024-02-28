@@ -1,9 +1,11 @@
----
+<!---
 layout: default
 title: CommodityMap Data Sources & Attribution
 nav_order: 8
 description: "CommodityMap Data Sources & Attribution"
----
+--->
+
+
 ### CommodityMap Data Sources & Attribution
 CommodityMAp uses publicly available datasets. Discovery the source and attribution of each of these datasets below.
 
