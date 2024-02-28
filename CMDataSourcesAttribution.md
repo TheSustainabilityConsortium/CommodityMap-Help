@@ -45,7 +45,17 @@ These models are used by CommodityMap to identify where environmental and social
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-|Forced and Child labor      |The Bureau of International Labor Affairs (ILAB) maintains a list of goods and their source countries which it has reason to believe are produced by child labor or forced labor in violation of international standards. Data only available outside the USA and listed at the country level.  Year: 2022   |  [List of Goods Produced by Child Labor or Forced Labor](https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods)                |             |  
+|Forced and Child labor      |The Bureau of International Labor Affairs (ILAB) maintains a list of goods and their source countries which it has reason to believe are produced by child labor or forced labor in violation of international standards. Data only available outside the USA and listed at the country level.  Year: 2022   |  [List of Goods Produced by Child Labor or Forced Labor](https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods)                |   United States Department of Labor  (USDOL)         | Public Domain (Disclaimer: The opinions expressed in this application are not the opinions of the U.S. Department of Labor (USDOL).)
+
+use of USDOL data is solely for raising awareness of where abusive labor practices may be found across value chains."
+
+
+USDOL:"While our data is available for public use, we request that your organization make it clear that any opinions are not the opinions of USDOL. USDOL is only raising awareness of where abusive labor practices may be found across value chains." | 
+
+
+We only ask that you please cite USDOL when using TVPRA List data. Additionally, while our data is available for public use, we request that your organization make it clear that any opinions are not the opinions of USDOL. USDOL is only raising awareness of where abusive labor practices may be found across value chains.
+
+
 
 #### Trade and Production Statistics
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
