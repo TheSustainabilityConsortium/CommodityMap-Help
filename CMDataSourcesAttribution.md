@@ -7,7 +7,7 @@ description: "CommodityMap Data Sources & Attribution"
 ### CommodityMap Data Sources & Attribution
 CommodityMAp uses publicly available datasets. Discovery the source and attribution of each of these datasets below.
 
-
+---
 #### Spatial Agricultural Production Models
 
 These models are used by CommodityMap to identify where agricultural crops are produced. 
@@ -20,7 +20,7 @@ These models are used by CommodityMap to identify where agricultural crops are p
 
 
 
-
+---
 #### Environmental and Social Issue Models
 These models are used by CommodityMap to identify where environmental and social issues are occuring. 
 
@@ -40,7 +40,7 @@ These models are used by CommodityMap to identify where environmental and social
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
 |Deforestation | This dataset shows shows the dominant driver of tree cover loss from 2001-2022 using these two categories: commodity-driven deforestation: Large-scale deforestation linked primarily to commercial agricultural expansion.Shifting agriculture: Temporary loss or permanent deforestation due to small- and medium-scale agriculture.   Year: 2022        | [Tree Cover Loss by Dominant Driver](https://data.globalforestwatch.org/documents/gfw::tree-cover-loss-by-dominant-driver-2022/about) | Curtis, P.G., C.M. Slay, N.L. Harris, A. Tyukavina, and M.C. Hansen. 2018. “Classifying Drivers of Global Forest Loss.” *Science.* Accessed through Global Forest Watch on 2023. www.globalforestwatch.org."          | [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) | 
-
+---
 ##### Social Issues
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
@@ -49,18 +49,16 @@ These models are used by CommodityMap to identify where environmental and social
 | Governamce | The Worldwide Governance Indicators (WGI) aim to assess and measure the quality of governance in countries worldwide by providing a comprehensive set of indicators capturing various aspects of political, economic, and institutional governance. Year: 2022 | [Worldwide Governance Indicators](https://www.worldbank.org/en/publication/worldwide-governance-indicators) | Daniel Kaufmann and Aart Kraay (2023). Worldwide Governance Indicators, 2023 Update (www.govindicators.org), Accessed on 2024|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) |
 
 
-
+---
 #### Trade and Production Statistics
-| Category  | Descripton   | Dataset name    | Attribution | License   | 
+| Category  | Descripton   | Dataset name    | Attribution | License | 
 |:----------|:-------------|:----------------|:------------|:----------|
-| Trade Data| Provides information on the international trade in agricultural products        Year: 2022     |[Crops and livestock products] (https://www.fao.org/faostat/en/#data/QCL)     |             |   |
-|   Crop and Livestock Production         |         Year:        |                  |            |  
+|Crop and Livestock Production| Provides information on the international trade in agricultural products. Year: 2022 |[Crops and livestock products](https://www.fao.org/faostat/en/#data/QCL) | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data.zip. Data of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)   |
+|Trade Data      | The FAO Trade Matrix is a database managed by the Food and Agriculture Organization, offering comprehensive information on international trade in agricultural products, facilitating analysis of trade patterns and movements of various food and agricultural commodities globally. Year: 2022| [Detailed trade matrix](https://www.fao.org/faostat/en/#data/TM)                 | FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_DetailedTradeMatrix_E_All_Data.zip. Data of Access: 2023.|[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)   |
 
-
-“FAO.[NAME OF DATABASE]. License: CC BY-NC-SA 3.0 IGO. Extracted from: [insert URL of database]. Data of Access: [insert date that the dataset was accessed in the following format DD-MM-YEAR].”
-
+---
 #### Administrative Boundaries
 
-| Category  | Descripton   | Dataset name    | Attribution | 
-|:----------|:-------------|:----------------|:------------| 
-|           |         Year: |                 |             | 
+| Category  | Descripton   | Dataset name    | Attribution |  License | 
+|:----------|:-------------|:----------------|:------------|:----------
+|   Administrative Boundaries        | The database of global administrative areas (GADM) provides the adminstrative delination of all countries and sub-divisions. Year: 2022|[GADM dataset 4.1](https://gadm.org/index.html)              |  Global Administrative Areas 2022. University of California, Berkely. [digital geospatial data]. Available online: http://www.gadm.org [2022].           | The data are freely available for academic use and other non-commercial use.|
