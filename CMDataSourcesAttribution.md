@@ -27,7 +27,6 @@ These models are used by CommodityMap to identify where environmental and social
 ##### Environmental Issues
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-| Biodiversity|Biodiversity Hotspots--regions where at least 1,500 vascular plants as endemics and  must have 30% or less of its original natural vegetation. Year:  2016 |[Conservation International - Biodiversity Hotspots](https://www.conservation.org/priorities/biodiversity-hotspots) | Attribution| [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)|
 |Biodiversity| This dataset represent a set of priority terrestrial areas identified for conservation based on their rich biodiversity and ecological significance. Year: 2004|[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/) ​|World Wildlife Fund - Global 200 (terrestrial) Ecoregions Credits: World Wildlife Fund - US Publication Date: 2004 Publisher: World Wildlife Fund Other Citation Info: Olson, D.M., E. Dinerstein, E.D. Wikramanayake, N.D. Burgess, G.V.N. Powell, E.C. Underwood, J.A. D'Amico, H.E. Strand, J.C. Morrison, C.J. Loucks, T.F. Allnutt, J.F. Lamoreux, T.H. Ricketts, I. Itoua, W.W. Wettengel, Y. Kura, P. Hedao, and K. Kassem. 2001. Terrestrial ecoregions of the world: A new map of life on Earth. BioScience 51(11):933-938.| [Use Contraints](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)Any modification of the original map by users to ecoregion boundaries, units, names, or realm and biome classes must be noted. |   
 
 
@@ -46,8 +45,7 @@ These models are used by CommodityMap to identify where environmental and social
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
 |Forced and Child labor      |The Bureau of International Labor Affairs (ILAB) maintains a list of goods and their source countries which it has reason to believe are produced by child labor or forced labor in violation of international standards. Data only available outside the USA and listed at the country level.  Year: 2022   |  [List of Goods Produced by Child Labor or Forced Labor](https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods)                |   United States Department of Labor  (USDOL)         | Public Domain (Disclaimer: The opinions expressed in this application are not the opinions of the U.S. Department of Labor (USDOL).)|
-| Governamce |  
-The Worldwide Governance Indicators (WGI) aim to assess and measure the quality of governance in countries worldwide by providing a comprehensive set of indicators capturing various aspects of political, economic, and institutional governance.             |        |      |    |
+| Governamce | The Worldwide Governance Indicators (WGI) aim to assess and measure the quality of governance in countries worldwide by providing a comprehensive set of indicators capturing various aspects of political, economic, and institutional governance. Year: 2022 | [Worldwide Governance Indicators](https://www.worldbank.org/en/publication/worldwide-governance-indicators) | Daniel Kaufmann and Aart Kraay (2023). Worldwide Governance Indicators, 2023 Update (www.govindicators.org), Accessed on 2024|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) |
 
 
 
