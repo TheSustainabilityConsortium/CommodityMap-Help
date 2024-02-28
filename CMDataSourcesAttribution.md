@@ -27,7 +27,7 @@ These models are used by CommodityMap to identify where environmental and social
 ##### Environmental Issues
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
 |:----------|:-------------|:----------------|:------------|:----------|
-|Biodiversity| This dataset represent a set of priority terrestrial areas identified for conservation based on their rich biodiversity and ecological significance. Year: 2004|[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/) ​|World Wildlife Fund - Global 200 (terrestrial) Ecoregions Credits: World Wildlife Fund - US Publication Date: 2004 Publisher: World Wildlife Fund Other Citation Info: Olson, D.M., E. Dinerstein, E.D. Wikramanayake, N.D. Burgess, G.V.N. Powell, E.C. Underwood, J.A. D'Amico, H.E. Strand, J.C. Morrison, C.J. Loucks, T.F. Allnutt, J.F. Lamoreux, T.H. Ricketts, I. Itoua, W.W. Wettengel, Y. Kura, P. Hedao, and K. Kassem. 2001. Terrestrial ecoregions of the world: A new map of life on Earth. BioScience 51(11):933-938.| [Use Contraints](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)Any modification of the original map by users to ecoregion boundaries, units, names, or realm and biome classes must be noted. |   
+| Biodiversity| My description |[World Wildlife Fund Global 200 Ecoregions](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/) | Attrib |[Use Contraints](https://databasin.org/datasets/a5b34649cc69417ba52ac8e2dce34c3b/)|      
 
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
