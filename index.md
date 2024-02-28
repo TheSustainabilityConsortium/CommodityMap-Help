@@ -22,7 +22,9 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 
 #### Methodology
 #### 1. [Issue Scoring & Priority Levels](IssueScoringPriorityLevels.md)
+<!--- 
 #### 2. [Recommendation Scoring](RecommendationScoring.md)
+--->
 
 #### Data Sources
 #### [Commodity Map Data Sources & Attribution](CMDataSourcesAttributionWRAPPER.md)
