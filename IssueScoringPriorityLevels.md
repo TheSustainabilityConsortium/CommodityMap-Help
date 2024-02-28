@@ -14,3 +14,5 @@ Beginning at the bottom of image below, multiple data transformations are perfor
 
 
 <img src=".\images\issue scores crop.png" width="1280" height="513">
+
+[enlarge image](https://thesustainabilityconsortium.github.io/CommodityMap-Help/images/issue%20scores%20crop.png)
