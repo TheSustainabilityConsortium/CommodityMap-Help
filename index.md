@@ -11,21 +11,21 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 ## CommodityMap Help
 ### Documentation
 #### Getting Started
-#### 1. [CommodityMap Overview](Overview.md)
-#### 2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
-#### 3. [View your results](ViewingYourCommodityMapAnalysis.md)
+##### 1. [CommodityMap Overview](Overview.md)
+##### 2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
+##### 3. [View your results](ViewingYourCommodityMapAnalysis.md)
 
 
 
 #### Advanced Features
-#### 1. [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
+##### [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
 
 #### Methodology
-#### 1. [Issue Scoring & Priority Levels](IssueScoringPriorityLevels.md)
+##### [Issue Scoring & Priority Levels](IssueScoringPriorityLevels.md)
 <!--- 
 #### 2. [Recommendation Scoring](RecommendationScoring.md)
 --->
 
 #### Data Sources
-#### [Commodity Map Data Sources & Attribution](CMDataSourcesAttribution.md)
+##### [Commodity Map Data Sources & Attribution](CMDataSourcesAttribution.md)
 ---
