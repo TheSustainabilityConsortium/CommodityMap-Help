@@ -44,6 +44,26 @@ These models are used by CommodityMap to identify where environmental and social
 |:----------|:-------------|:----------------|:------------|:----------|
 |Water |The Aqueduct™ water risk framework combines 13 water risk indicators—including quantity, quality, and reputational risks—into a composite overall water risk score Year: 2023           | [Aqueduct 4.0 Current and Future Global Maps Data](https://www.wri.org/data/aqueduct-global-maps-40-data)                | Kuzma, S., M.F.P. Bierkens, S. Lakshman, T. Luo, L. Saccoccia, E. H. Sutanudjaja, and R. Van Beek. 2023. “Aqueduct 4.0: Updated decision-relevant global water risk indicators.” Technical Note. Washington, DC: World Resources Institute. Available online at: doi.org/10.46830/ writn.23.00061.|[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)   |
 
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Category</th>
+<th style="text-align:left">Descripton</th>
+<th style="text-align:left">Dataset name</th>
+<th style="text-align:left">Attribution</th>
+<th style="text-align:left">License</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Deforestation</td>
+<td style="text-align:left">This dataset shows shows the dominant driver of tree cover loss from 2001-2022 using these two categories: commodity-driven deforestation: Large-scale deforestation linked primarily to commercial agricultural expansion.Shifting agriculture: Temporary loss or permanent deforestation due to small- and medium-scale agriculture.   Year: 2022</td>
+<td style="text-align:left"><a href="https://data.globalforestwatch.org/documents/gfw::tree-cover-loss-by-dominant-driver-2022/about">Tree Cover Loss by Dominant Driver</a></td>
+<td style="text-align:left">Curtis, P.G., C.M. Slay, N.L. Harris, A. Tyukavina, and M.C. Hansen. 2018. “Classifying Drivers of Global Forest Loss.” <em>Science.</em> Accessed through Global Forest Watch on 2023. www.globalforestwatch.org.&quot;</td>
+<td style="text-align:left"><a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons Attribution Share Alike 4.0 International</a></td>
+</tr>
+</tbody>
+</table>
 
 
 | Category  | Descripton   | Dataset name    | Attribution | License   | 
