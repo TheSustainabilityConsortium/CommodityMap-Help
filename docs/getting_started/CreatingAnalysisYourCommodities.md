@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Creating an Analysis of Your Commodities
-nav_order: 3
+title: Creating an Analysis
+parent: Getting Started
+nav_order: 2
 description: "Creating an Analysis of Your Commodities"
 ---
 

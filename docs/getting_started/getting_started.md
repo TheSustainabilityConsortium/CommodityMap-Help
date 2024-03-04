@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 9
+nav_order: 1
 has_children: true
 permalink: /docs/getting_started
 ---
-Getting Started
+### Getting Started
 
-Follow these  guys 
+Get started creating a CommodityMap Analysis by following these resources. 
