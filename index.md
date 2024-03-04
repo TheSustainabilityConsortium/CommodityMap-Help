@@ -27,5 +27,5 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 --->
 
 #### Data Sources
-#### [Commodity Map Data Sources & Attribution](CMDataSourcesAttributionWRAPPER.md)
+#### [Commodity Map Data Sources & Attribution](CMDataSourcesAttribution.md)
 ---
