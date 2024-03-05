@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Issue Scoring & Priority Levels
-nav_order: 6
+parent: Methodology
+nav_order: 1
 description: "Issue Scoring & Priority Levels"
 ---
+
 Beginning at the bottom of image below, multiple data transformations are performed starting with the raw input datasets--what we call issue indicators--to the total priority score displayed in the final analysis for a given commodity supply. 
 
 * **STEP 1 Transform issue indicators (raw datasets) to issue scores [internal]:** to generate issue scores for a given supply, the spatial intersection of the crop production and issue indicator datasets (e.g. deforestation, biodiversity, water, etc.) is analyzed and quantified into a set of raw scores. These raw scores are termed issue indicators--parameters used to assess and quantify specific environmental or social issues in each region. This raw data is aggregated and normalized to a 0-1 range. For example, the water score is actually derived from 13 different indicators of water stress. This aggregated and normalized data are called internal issue scores. 

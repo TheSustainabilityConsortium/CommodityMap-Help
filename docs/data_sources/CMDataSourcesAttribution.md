@@ -1,7 +1,8 @@
 ---
 layout: default
 title: CommodityMap Data Sources & Attribution
-nav_order: 8
+parent: Data Sources
+nav_order: 1
 description: "CommodityMap Data Sources & Attribution"
 ---
 
