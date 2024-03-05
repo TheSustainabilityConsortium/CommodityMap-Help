@@ -1,17 +1,11 @@
 ---
 layout: default
 title: Viewing an Anlysis of Your Commodities
+parent: Getting Started
 nav_order: 3
 description: "Viewing an Analysis of Your Commodities"
 ---
 
----
-layout: default
-title: Creating an Analysis
-parent: Getting Started
-nav_order: 2
-description: "Creating an Analysis of Your Commodities"
----
 
 ### Viewing an Analysis of your Commodities
 After you have [created your analysis](Creating an Analysis of your Commodities.md), you will be presented with your results. 
