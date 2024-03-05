@@ -5,6 +5,7 @@ parent: Methodology
 nav_order: 1
 description: "Issue Scoring & Priority Levels"
 ---
+### Issue Scoring & Priority Levels
 
 Beginning at the bottom of image below, multiple data transformations are performed starting with the raw input datasets--what we call issue indicators--to the total priority score displayed in the final analysis for a given commodity supply. 
 
