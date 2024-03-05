@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Commodity Map Help 
+title: Home
 nav_order: 1
 description: "Home"
 ---
