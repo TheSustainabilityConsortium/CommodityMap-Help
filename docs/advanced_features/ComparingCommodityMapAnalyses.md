@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Comparing Your CommodityMap Analyses
-nav_order: 5
+parent: Advanced Features
+nav_order: 1
 description: "Comparing Your CommodityMap Analyses"
 ---
 
