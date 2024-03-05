@@ -15,6 +15,6 @@ Beginning at the bottom of image below, multiple data transformations are perfor
 * **STEP 3: Transform the internal issue scores to total priority score.** the final step is to average the internal indicator scores then perform categorical binning as performed in step 2 to derive the total priority score. The total priority score uses the same heat map colors as the presented issue scores. Additional, an abbreviation for low (LO), medium (MD), and high (HI) is displayed within the total priority circle. 
 
 
-<img src="..\images\issue scores crop.png" width="1280" height="513">
+<img src="..\..\images\issue scores crop.png" width="1280" height="513">
 
 [enlarge image](https://thesustainabilityconsortium.github.io/CommodityMap-Help/images/issue%20scores%20crop.png)
