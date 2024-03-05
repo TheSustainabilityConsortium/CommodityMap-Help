@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commodity Map Help 
-nav_order: 1
+nav_exclude: true
 description: "CommodityMap Help"
 ---
 <!-- The syntax above must appear in each markdown file. nav_ord means navigation order. For the Jekyll theme we are using, Just the Docs, each markdown page will increment the nav_order so that the left side navigation in the final rendered HTML will be in the order you have dictated.
