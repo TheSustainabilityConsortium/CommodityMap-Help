@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Network Trade Model
+title: Trade Network Model
 parent: Methodology
 nav_order: 2
-description: "Network Trade Model"
+description: "Trade Network Model"
 ---
 ### Trade Network Model (TNM)
 
