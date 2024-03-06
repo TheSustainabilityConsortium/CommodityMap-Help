@@ -20,10 +20,11 @@ The TNM (Figure B) is designed to identify potential source countries for a give
 
 <img src="..\..\images\how_tnm_works.jpg" width="1280" height="720">
 <small>Figure B: How the Trade Network Model processes country of purchase to produce the most like countries a commodity was sourced. </small>
+<p>
 
-[[enlarge image]](https://thesustainabilityconsortium.github.io/CommodityMap-Help/images/how_tnm_works.jpg)
+[enlarge image](https://thesustainabilityconsortium.github.io/CommodityMap-Help/images/how_tnm_works.jpg)
 
-
+<p?>
  
 
 Beginning with the given commodity and purchase location (Figure B, step 1), the first step is to evaluate if this commodity was likely to have been imported or domestically produced. If the country of purchase has substantially more domestic production than imports of the commodity of choice, it is deemed domestically produced, and the analysis is over. The purchase region is the source region. Otherwise, the model will begin to build a trade network and at least part of the production regions will be deemed external to the purchase nation.  
@@ -36,7 +37,7 @@ To build the trade network, a graph structure is created utilizing trade statist
 
 
 <img src="..\..\images\table_reporter_partner.jpg" width="547" height="225">
-
+<p>
 <small>Table 1. United States Pineapple Import Reocrds (intentionally incomplete for simplicity) </small>
 
 
@@ -46,10 +47,10 @@ To build the trade network, a graph structure is created utilizing trade statist
 <img src="..\..\images\tier_1.png" width="321" height="201">
 
 <small>Figure C:  Tier 1 trade network for pineapples purchased in the USA.  </small>
-
+<p>
 As Figure C shows, the United States has 3 countries that it is sourcing pineapples from, in addition to its domestic supply. After creating the first tier of the network, each node (including the root node) is assigned a portion of the total supply. Total supply is the sum of domestic production and all imports:  
 
- 
+ <p>
 
 <code> Total Supply = Domestic Supply + Imports  </code>
 
