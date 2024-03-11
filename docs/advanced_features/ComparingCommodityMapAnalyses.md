@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Comparing Your CommodityMap Analyses
+title: Comparing Analyses
 parent: Advanced Features
 nav_order: 1
-description: "Comparing Your CommodityMap Analyses"
+description: "Comparing Analyses"
 ---
 
 
 
-### Compare CommodityMap Analyses
+### Compare Analyses
 Compare Analysis allows you to compare the results of two or more analyses by a specific commodity and optionally a supply for that commodity. 
 
 >NOTE: The results of the comparision have a similar layout to that which you see when viewing an analysis result: there is a legend and the ability to download the comparison in a .csv file. 

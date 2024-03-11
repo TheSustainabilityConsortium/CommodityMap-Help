@@ -1,12 +1,12 @@
 ---
 layout: default
-title: CommodityMap Data Sources & Attribution
+title: Data Sources & Attribution
 parent: Data Sources
 nav_order: 1
-description: "CommodityMap Data Sources & Attribution"
+description: "Data Sources & Attribution"
 ---
 
-### CommodityMap Data Sources & Attribution
+### Data Sources & Attribution
 CommodityMap uses publicly available datasets. Discovery the source and attribution of each of these datasets below.
 
 ---

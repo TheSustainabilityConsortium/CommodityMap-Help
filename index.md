@@ -13,7 +13,7 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 <br>
 
 #### Getting Started
-##### 1. [CommodityMap Overview](Overview.md)
+##### 1. [Overview](Overview.md)
 ##### 2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
 ##### 3. [View your results](ViewingYourCommodityMapAnalysis.md)
 
@@ -21,7 +21,7 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 <br>
 
 #### Advanced Features
-##### [Compare CommodityMap Analysis](ComparingCommodityMapAnalyses.md)
+##### [Compare Analyses](ComparingCommodityMapAnalyses.md)
 <br>
 
 #### Methodology
@@ -32,5 +32,5 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 <br>
 
 #### Data Sources
-##### [Commodity Map Data Sources & Attribution](CMDataSourcesAttribution.md)
+##### [Data Sources & Attribution](CMDataSourcesAttribution.md)
 ---
