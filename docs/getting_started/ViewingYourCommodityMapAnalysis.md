@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Viewing an Anlysis of Your Commodities
+title: Viewing an Analysis of Your Commodities
 parent: Getting Started
 nav_order: 3
 description: "Viewing an Analysis of Your Commodities"
