@@ -13,24 +13,24 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 <br>
 
 #### Getting Started
-##### 1. [Overview](Overview.md)
-##### 2. [Create an Analysis](CreatingAnalysisYourCommodities.md)
-##### 3. [View your results](ViewingYourCommodityMapAnalysis.md)
+##### 1. [Overview](./docs/getting_started/Overview.md)
+##### 2. [Create an Analysis](./docs/getting_started/CreatingAnalysisYourCommodities.md)
+##### 3. [View your results](./docs/getting_started/ViewingYourCommodityMapAnalysis.md)
 
 
 <br>
 
 #### Advanced Features
-##### [Compare Analyses](ComparingCommodityMapAnalyses.md)
+##### [Compare Analyses](./docs/advanced_features/ComparingCommodityMapAnalyses.md)
 <br>
 
 #### Methodology
-##### [Issue Scoring & Priority Levels](IssueScoringPriorityLevels.md)
+##### [Issue Scoring & Priority Levels](./docs/methodology/IssueScoringPriorityLevels.md)
 <!--- 
 #### 2. [Recommendation Scoring](RecommendationScoring.md)
 --->
 <br>
 
 #### Data Sources
-##### [Data Sources & Attribution](CMDataSourcesAttribution.md)
+##### [Data Sources & Attribution](./docs/data_sources/CMDataSourcesAttribution.md)
 ---

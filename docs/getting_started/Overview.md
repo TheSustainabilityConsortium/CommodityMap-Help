@@ -51,7 +51,7 @@ A common workflow to produce an analysis is as follows:
     - View all supplies and sort by priority scores
     - View the top 5 supplies with the highest priorities
     - View recommendations: actions you can take, suggested improvements to the  data you supplied, and resources.
-3. [Compare Analysis](ComparingCommodityMapAnalyses.md)
+3. [Compare Analysis](../advanced_features/ComparingCommodityMapAnalyses.md)
 
     After you have created several analysis, you can then compare the analyzed commodities. 
   
