@@ -55,7 +55,7 @@ A common workflow to produce an analysis is as follows:
 
     After you have created several analysis, you can then compare the analyzed commodities.
 
-    ### NEXT  [Create an Analysis](CreatingAnalysisYourCommodities.md){: .btn .btn-green }
+    ### Next:  [Create an Analysis](CreatingAnalysisYourCommodities.md){: .btn .btn-green }
   
 
 
