@@ -62,5 +62,5 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 8. You will receive a message **Your results are ready!**. Click **Continue to results** to view your results. 
 
- ### Next   
- [View your results](ViewingYourCommodityMapAnalysis.md){: .btn .btn-green }
+### Next   
+[View your results](ViewingYourCommodityMapAnalysis.md){: .btn .btn-green }
