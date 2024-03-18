@@ -14,7 +14,7 @@ After you have [created your analysis](Creating an Analysis of your Commodities.
 
 At the top of the Analysis page, under the title of your analysis, a tab bar allows you to navigate to:  
 
-- [**All supplies:**]("ViewingAllSupplies.md") view and filter all your supplies and their assoicated issue scores.
+- [**All supplies:**](ViewingAllSupplies.md) view and filter all your supplies and their assoicated issue scores.
 - **Priority supplies:** view your top 5 supplies along with a map indicating the corresponding grow locations. 
 - **Recommendations:** this page allows you to view different recommendations: actions you can take, methods to improve your data quality, and resources. 
 
