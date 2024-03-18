@@ -2,6 +2,7 @@
 layout: default
 title: Viewing an Analysis of Your Commodities
 parent: Getting Started
+has_children: true
 nav_order: 3
 description: "Viewing an Analysis of Your Commodities"
 ---
