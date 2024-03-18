@@ -7,4 +7,6 @@ permalink: /docs/getting_started
 ---
 ### Getting Started
 
-Get started creating a CommodityMap Analysis by following these resources. 
+To begin, first [signup for a CommodityMap login](https://portal.commoditymap.org/signup). 
+
+Then get started creating and viewing your first analysis in CommodityMap by following these resources. 
