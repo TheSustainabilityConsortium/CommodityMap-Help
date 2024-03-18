@@ -23,7 +23,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
 > NOTE: 
 > There is limit of 20 analyses. 
 
-#### Adding commodities 
+#### Start a New Analysis
 
 
 1. From the **My Analyses page**, Click **+ Start new analysis.**
@@ -39,7 +39,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
 
 6. In the **Select a commodity dialog**, select your commodity, and click **Add commodity**. A new row with a gold border at the top appears with the name of commodity. 
 
-**Adding supply data for the commodity or commodities** 
+**Adding supply data for the commodity or commodities**
 
 1. Within the new commodity row just added, click **+ Add supply of this commodity**. 
 2. In the New Supply dialog, select the **purchasing country** and **quantity purchased** in metric tons. 
@@ -52,7 +52,7 @@ After you have successfully [created your account](https://portal.commoditymap.o
     * **No:** Purchased supply without information about where it was grown will have growing regions modeled by TSC. The result will be the most likely countries from which you are sourcing your commodity. 
 
 
-4. Optional:  Enter a supplier name and amount spent. 
+4. *Optional:  Enter a supplier name and amount spent.*
 
 5. If you have taken actions to address sustainability issues related to the supply, click **+Add action** and select any actions in the supplied list. 
 

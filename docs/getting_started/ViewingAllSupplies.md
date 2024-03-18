@@ -10,6 +10,7 @@ nav_order: 1
 
 Here is where you can filter and view all your supplies and their assoicated issue scores.
 
+
 #### Filter and legend section
 
 &nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, or only show those items that are stared. You can also download a csv file of the results for further analysis in Excel. 
