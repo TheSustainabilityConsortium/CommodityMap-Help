@@ -6,12 +6,10 @@ grand_parent: Getting Started
 nav_order: 2
 ---
 
-### **Priority supplies** 
+### Viewing an Analysis: Priority Supplies
 
-#### Top 5 supplies with highest priority (middle)
-&nbsp;&nbsp;&nbsp;&nbsp;View your top 5 supplies with the highest priority. 
+ View your top 5 supplies, download cvs file, and view a map indicating the geographic locations these top 5 priority supplies.  
 
+*TIP: when viewing the map, hover over the purple indicators to obtain the commodity name and location.*
 
-#### Map (bottom) 
-&nbsp;&nbsp;&nbsp;&nbsp;View a map indicating the geographic location of your top 5 supplies with highest priorities (bottom section)
 

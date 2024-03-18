@@ -8,11 +8,13 @@ nav_order: 1
 
 ### Viewing an Analysis: All Supplies
 
-#### Filter and legend section (middle section):
+Here is where you can filter and view all your supplies and their assoicated issue scores.
+
+#### Filter and legend section
 
 &nbsp;&nbsp;&nbsp;&nbsp;Filter results on certain commodities, countries, or only show those items that are stared. You can also download a csv file of the results for further analysis in Excel. 
 
-#### Issue score results (bottom section):
+#### Issue score results
 
 &nbsp;&nbsp;&nbsp;&nbsp;View each of the commodities and the unique supply information (commodity-location pairs) issue scores and total priority. 
 

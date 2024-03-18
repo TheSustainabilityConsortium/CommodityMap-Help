@@ -8,11 +8,11 @@ nav_order: 3
 
 ### **Recommendations** 
 &nbsp;&nbsp;&nbsp;&nbsp;At the top of the Recommendation page the tab bar allows you to navigate to: 
-- **Actions:** list of recommended actions based on your issue scores. 
-- **Data quality:** methods of improving your data quality score. Thsi score is based upon the information provided when entering supplier information. 
-- **Resources:** tools, standards, certifications, and more related to your commodity supplies. 
+- [**Actions:**](#actions) list of recommended actions based on your issue scores. 
+- [**Data quality:**](#data-quality) methods of improving your data quality score. Thsi score is based upon the information provided when entering supplier information. 
+- [**Resources:**](#resources) tools, standards, certifications, and more related to your commodity supplies. 
 
-#### Actions
+#### **Actions**
 &nbsp;&nbsp;&nbsp;&nbsp;Actions you take help to increase visibility and reduce social and environment issues in the regions your commodities are sourced. 
 
 #### *Filter and legend section (top):*
@@ -22,7 +22,7 @@ nav_order: 3
 >NOTE: Actions are only shown where your issues scores were determined to be higher or medium priority. 
 
 
-*Recommended Actions (bottom):*
+#### *Recommended Actions (bottom):*
 
 &nbsp;&nbsp;&nbsp;&nbsp; Action recommendations are organized in tables, each focusing on a particular commodity. Here's a breakdown of the columns in the individual commodity tables:
 
@@ -32,7 +32,7 @@ nav_order: 3
 
 
 
-#### Data quality
+#### **Data quality**
 
 &nbsp;&nbsp;&nbsp;&nbsp;A list of supplies where the data entered (i.e. details provided) for a given supply could be improved. 
 
@@ -40,7 +40,7 @@ nav_order: 3
 
 
 
-#### Resources
+#### **Resources**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Resources are tools, standards, certifications, and more related to your commodity supplies. 
 
