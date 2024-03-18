@@ -21,15 +21,6 @@ At the top of the Analysis page, under the title of your analysis, a tab bar all
 
 In the upper left is the **Analysis Settings** where you can change analysis title, update your data, and delete the analysis. 
 
-### **Priority supplies** 
-
-#### Top 5 supplies with highest priority (middle)
-&nbsp;&nbsp;&nbsp;&nbsp;View your top 5 supplies with the highest priority. 
-
-
-#### Map (bottom) 
-&nbsp;&nbsp;&nbsp;&nbsp;View a map indicating the geographic location of your top 5 supplies with highest priorities (bottom section)
-
 
 ### **Recommendations** 
 &nbsp;&nbsp;&nbsp;&nbsp;At the top of the Recommendation page the tab bar allows you to navigate to: 
