@@ -8,29 +8,17 @@ description: "Home"
 https://just-the-docs.com/docs/navigation-structure/#ordering-pages
  -->
 
-## CommodityMap Help
-### Documentation
-<br>
 
-#### Getting Started
-##### 1. [Overview](./docs/getting_started/Overview.md)
-##### 2. [Create an Analysis](./docs/getting_started/CreatingAnalysisYourCommodities.md)
-##### 3. [View your results](./docs/getting_started/ViewingYourCommodityMapAnalysis.md)
+<img src="https://raw.githubusercontent.com/TheSustainabilityConsortium/CommodityMap-Help/main/images/cm_location_pin.png" width="70" height="70">
+
+## Welcome to the CommodityMap Help Center
+
+Here you can find the [getting started guide](getting_started.md) along with other user documentation, reach out for help, and more. 
+
+> **CommodityMap:** an innovative sustainability analytics platform that generates insights by way of analyzing the relationship between where you source your agricultural commodity and sustainability issues. 
 
 
-<br>
-
-#### Advanced Features
-##### [Compare Analyses](./docs/advanced_features/ComparingCommodityMapAnalyses.md)
-<br>
-
-#### Methodology
-##### [Issue Scoring & Priority Levels](./docs/methodology/IssueScoringPriorityLevels.md)
-<!--- 
-#### 2. [Recommendation Scoring](RecommendationScoring.md)
---->
-<br>
-
-#### Data Sources
-##### [Data Sources & Attribution](./docs/data_sources/CMDataSourcesAttribution.md)
----
+### Contact Us
+* <p><a href="mailto:cm_help@sustainabilityconsortium.org">Send a support email</a></p>
+* <p><a href="mailto:cm_help@sustainabilityconsortium.org?subject=CommodityMap%20feedback">Send us feedback</a></p>
+* <p><a href="mailto:">Visit the CommodityMap website</a></p>      

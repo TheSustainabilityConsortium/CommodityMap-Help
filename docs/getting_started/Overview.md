@@ -22,7 +22,7 @@ CommodityMap will:
 
 ### How it works
 
-> **CommodityMap:** a innovative sustainability analytics platform that generates insights by way of analyzing the relationship between where you source your agricultural commodity and sustainability issues. 
+> **CommodityMap:** an innovative sustainability analytics platform that generates insights by way of analyzing the relationship between where you source your agricultural commodity and sustainability issues. 
 
 Rather than providing a traditional geographic map, _think of CommodityMap as a tool which maps out, organizes, and presents insights related to your commodities' impact_. Specifically, CommodityMap delivers an analysis of the environmental and social sustainability issues associated with where you source your agricultural commodities.  
 
