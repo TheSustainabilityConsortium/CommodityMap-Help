@@ -13,7 +13,7 @@ https://just-the-docs.com/docs/navigation-structure/#ordering-pages
 
 ## Welcome to the CommodityMap Help Center
 
-Here you can find the [getting started guide](getting_started.md) along with other user documentation, reach out for help, and more. 
+Here you can find the [getting started guide](./docs/getting_started/getting_started.md) along with other user documentation, reach out for help, and more. 
 
 > **CommodityMap:** an innovative sustainability analytics platform that generates insights by way of analyzing the relationship between where you source your agricultural commodity and sustainability issues. 
 
