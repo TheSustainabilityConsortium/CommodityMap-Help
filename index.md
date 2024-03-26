@@ -21,4 +21,4 @@ Here you can find the [getting started guide](./docs/getting_started/getting_sta
 ### Contact Us
 * <p><a href="mailto:cm_help@sustainabilityconsortium.org">Send a support email</a></p>
 * <p><a href="mailto:cm_help@sustainabilityconsortium.org?subject=CommodityMap%20feedback">Send us feedback</a></p>
-* <p><a href="mailto:">Visit the CommodityMap website</a></p>      
+* <p><a href="https://sustainabilityconsortium.org/commodity-mapping/">Visit the CommodityMap website</a></p>      
