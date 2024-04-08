@@ -32,7 +32,7 @@ Rather than providing a traditional geographic map, _think of CommodityMap as a 
 
 3. **Analysis:** for each commodity-region pair, you will receive a total priority score along individual priorities for each of the environmental and social issues. Additionally, you will receive recommendations for action you can take and resources to achieve your sustainability goals.  
 
-<img src="https://raw.githubusercontent.com/TheSustainabilityConsortium/CM-UserGuide-Images/main/CM%20How%20it%20Works%20Big%20Picture.jpg" width="1400" height="500">
+<img src=""..\..\images\CM How it Works Big Picture.jpg" width="1400" height="500">
 
 ### Overview of the Workflow
 
