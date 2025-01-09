@@ -8,6 +8,8 @@ description: "Data Release Notes"
 
 # Data Release Notes
 
+<!-- Add new releases here and put a <hr> between releases-->
+
 ## January Crop Production Data Update
 Released January 9, 2025
 
