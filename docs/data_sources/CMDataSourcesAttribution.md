@@ -29,14 +29,30 @@ These models are used by CommodityMap to identify where agricultural crops are p
 <td style="text-align:left">Argricultural Production Data (USA)</td>
 <td style="text-align:left">USDA-NASS Cropland Data Layer (CDL) is an annual raster, geo-referenced, crop-specific land cover data layer. Year: 2022</td>
 <td style="text-align:left"><a href="https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php">USDA Cropland Data Layer</a></td>
-<td style="text-align:left">USDA National Agricultural Statistics Service Cropland Data Layer. 2022. Published crop-specific data layer [Online]. Available at <a href="https://nassgeodata.gmu.edu/CropScape/">https://nassgeodata.gmu.edu/CropScape/</a> (accessed 2022; verified 2022). USDA-NASS, Washington, DC.</td>
+<td style="text-align:left">Originator:
+United States Department of Agriculture (USDA) National Agricultural Statistics Service (NASS)
+Publication_Date: 20240131
+Title: 2023 Cropland Data Layer
+Edition: 2023 Edition
+Geospatial_Data_Presentation_Form: raster digital data
+Publication_Information:
+Publication_Place:
+USDA NASS Marketing and Information Services Office, Washington, D.C.
+Publisher: USDA NASS
+
+
+
+
+</td>
 <td style="text-align:left">Public Domain</td>
 </tr>
 <tr>
 <td style="text-align:left">Argricultural Production Data (World)</td>
 <td style="text-align:left">A spatial production allocation model designed to provide detailed information about the geographic distribution of major crops. Year: 2010</td>
 <td style="text-align:left"><a href="https://mapspam.info/">Spatial Production Allocation Model(MAPSPAM)</a></td>
-<td style="text-align:left">International Food Policy Research Institute, Global Spatially-Disaggregated Crop Production Statistics Data for 2010 Version 2.0, 2019, Harvard Dataverse, V4, Retrieved from: <a href="https://doi.org/10.7910/DVN/PRFF8V">https://doi.org/10.7910/DVN/PRFF8V</a></td>
+<td style="text-align:left">
+International Food Policy Research Institute (IFPRI), 2024, "Global Spatially-Disaggregated Crop Production Statistics Data for 2020 Version 1.0, <a href ="https://doi.org/10.7910/DVN/SWPENT">  https://doi.org/10.7910/DVN/SWPENT </a>, Harvard Dataverse, V3
+</td>
 <td style="text-align:left"><a href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0 Unported License</a></td>
 </tr>
 </tbody>
