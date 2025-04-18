@@ -7,10 +7,6 @@ permalink: /docs/getting_started
 ---
 ### Getting Started
 
- [signup](https://portal.commoditymap.org/signup) 
-
-
-
 To access CommodityMap, you'll need to signup and verify your email.
 
 1. Go to the  [signup](https://portal.commoditymap.org/signup) page:
