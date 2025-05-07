@@ -48,7 +48,7 @@ Publisher: USDA NASS
 </tr>
 <tr>
 <td style="text-align:left">Argricultural Production Data (World)</td>
-<td style="text-align:left">A spatial production allocation model designed to provide detailed information about the geographic distribution of major crops. Year: 2010</td>
+<td style="text-align:left">A spatial production allocation model designed to provide detailed information about the geographic distribution of major crops. Year: 2020</td>
 <td style="text-align:left"><a href="https://mapspam.info/">Spatial Production Allocation Model(MAPSPAM)</a></td>
 <td style="text-align:left">
 International Food Policy Research Institute (IFPRI), 2024, "Global Spatially-Disaggregated Crop Production Statistics Data for 2020 Version 1.0, <a href ="https://doi.org/10.7910/DVN/SWPENT">  https://doi.org/10.7910/DVN/SWPENT </a>, Harvard Dataverse, V3
