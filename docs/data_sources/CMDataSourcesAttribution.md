@@ -197,7 +197,7 @@ These models are used by CommodityMap to identify where environmental and social
 <tbody>
 <tr>
 <td style="text-align:left">Crop and Livestock Production</td>
-<td style="text-align:left">Provides information on the international trade in agricultural products. Year: 2022</td>
+<td style="text-align:left">Provides information on the international trade in agricultural products. Year: 2021</td>
 <td style="text-align:left"><a href="https://www.fao.org/faostat/en/#data/QCL">Crops and livestock products</a></td>
 <td style="text-align:left">FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: <a href="https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data.zip">https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data.zip</a>. Date of Access: 2023.</td>
 <td style="text-align:left"><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)</a></td>
