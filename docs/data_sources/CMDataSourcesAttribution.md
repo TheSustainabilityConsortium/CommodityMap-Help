@@ -204,7 +204,7 @@ These models are used by CommodityMap to identify where environmental and social
 </tr>
 <tr>
 <td style="text-align:left">Trade Data</td>
-<td style="text-align:left">The FAO Trade Matrix is a database managed by the Food and Agriculture Organization, offering comprehensive information on international trade in agricultural products, facilitating analysis of trade patterns and movements of various food and agricultural commodities globally. Year: 2022</td>
+<td style="text-align:left">The FAO Trade Matrix is a database managed by the Food and Agriculture Organization, offering comprehensive information on international trade in agricultural products, facilitating analysis of trade patterns and movements of various food and agricultural commodities globally. Year: 2021</td>
 <td style="text-align:left"><a href="https://www.fao.org/faostat/en/#data/TM">Detailed trade matrix</a></td>
 <td style="text-align:left">FAO.Crops and livestock products. License: CC BY-NC-SA 3.0 IGO. Extracted from: <a href="https://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_DetailedTradeMatrix_E_All_Data.zip">https://fenixservices.fao.org/faostat/static/bulkdownloads/Trade_DetailedTradeMatrix_E_All_Data.zip</a>. Date of Access: 2023.</td>
 <td style="text-align:left"><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)</a></td>
